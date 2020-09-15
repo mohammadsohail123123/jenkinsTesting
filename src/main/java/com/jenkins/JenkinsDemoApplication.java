@@ -19,6 +19,7 @@ public String test() {
 @PostConstruct
 public void init() {
 	System.out.println("jenkin sup");
+	System.out.println("jenkin sup11");
 }
 
 	public static void main(String[] args) {
