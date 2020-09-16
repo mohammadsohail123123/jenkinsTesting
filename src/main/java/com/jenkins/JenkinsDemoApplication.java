@@ -20,6 +20,7 @@ public String test() {
 public void init() {
 	System.out.println("jenkin sup");
 	System.out.println("jenkin sup11");
+	System.out.println("jenkin sup12");
 }
 
 	public static void main(String[] args) {
